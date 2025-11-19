@@ -27,4 +27,4 @@ Ultra-fast converter for legacy ASP.NET XLS reports to CSV using Node.js streami
 2. Update the `FILE_NAME` variable to match your file:
 
 ```javascript
-const FILE_NAME = "MIDTDetailReport.xls";
+const FILE_NAME = "Report.xls";
